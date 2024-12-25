@@ -2,7 +2,7 @@
 
 A beautiful and interactive Tic Tac Toe game built with React.js and Tailwind CSS, featuring 3D effects, player names, and continuous gameplay.
 
-![Tic Tac Toe Game](./public/game-preview.png)
+![Tic Tac Toe Game](https://gridwar.vercel.app/)
 
 ## Features
 
